@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767233618208",
+    "project_id": "fbcured",
+    "storage_bucket": "fbcured.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767233618208:android:c5b46011a6fa7b007da745",
+        "android_client_info": {
+          "package_name": "com.example.fbcured"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEU6Z9auu-6BK2Eb_oio46Wi7GQnQGbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
